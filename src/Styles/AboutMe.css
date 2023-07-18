@@ -1,0 +1,16 @@
+.AboutMe {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background: rgb(34, 193, 195);
+   background-image: linear-gradient(90deg, rgba(65, 164, 253, 1), rgba(14, 244, 255, 1));
+  }
+  .AboutMe .CV{
+    border: 2px solid black;
+    padding: 25px 20px;
+    width: 256px !important;
+    height: 70vh;
+    box-shadow: 0px 0px 2px 5px rgb(17, 13, 0);
+  }

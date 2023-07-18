@@ -1,0 +1,21 @@
+.Nav-header {
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(90deg,
+      rgba(115, 248, 224, 1),
+      rgba(150, 167, 241, 1));
+  margin: 0;
+  padding: 0.5rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+}
+.child {
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(90deg,
+      rgba(115, 248, 224, 1),
+      rgba(150, 167, 241, 1));
+  border-radius: 10px;
+  text-align: center;
+  margin: 3px;
+}
